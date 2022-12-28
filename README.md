@@ -1,2 +1,1 @@
-# mew.github.io
-https://zqzaialt.github.io/mew
+# https://zqzaialt.github.io/mew
