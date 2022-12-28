@@ -1,0 +1,8 @@
+{
+  "name": "mewwebsite",
+  "author": "xi#1111",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}

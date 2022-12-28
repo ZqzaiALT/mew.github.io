@@ -1,0 +1,5 @@
+{
+  "name": "zqzai/mewwebsite",
+  "timeout": 10000,
+  "connector": false
+}
